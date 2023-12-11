@@ -22,6 +22,16 @@
   box-sizing: border-box;
 }
 
+/* App.css */
+
+.logo-img {
+  width: 200px;
+  height: auto;
+  margin-right: 0px; /* Adjust the right margin as needed */
+  margin-top: 0px;   /* Adjust the top margin as needed */
+}
+
+
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 75px;
@@ -118,8 +128,8 @@ span.navbar-text {
     margin-left: 14px;
 }
 .social-icon a {
-    width: 42px;
-    height: 42px;
+    width: 32px;
+    height: 32px;
     background: rgba(217, 217, 217, 0.1);
     display: inline-flex;
     border-radius: 50%;
@@ -154,7 +164,7 @@ span.navbar-text {
   font-weight: 700;
   color: #fff;
   border: 1px solid #fff;
-  padding: 18px 34px;
+  padding: 10px 9px;
   font-size: 18px;
   margin-left: 18px;
 	position: relative;
